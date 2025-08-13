@@ -17,9 +17,7 @@ console.log('=== File Reading and Schema Extraction Example ===\n');
 // Define file paths relative to project root
 const sqlFiles = {
   sample: 'examples/sample-schema.sql',
-  catalogos: 'catalogos.sql',
-  maindb: 'maindb_dump.sql',
-  koinima: 'sql_koinima_lat.sql'
+//  newsample: 'sql-file-schema.sql',
 };
 
 // Helper function to check if file exists

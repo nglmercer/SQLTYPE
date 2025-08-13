@@ -18,7 +18,7 @@ console.log('=== File Reading and Schema Extraction with File Outputs ===\n');
 // Define file paths relative to project root
 const sqlFiles = {
   sample: 'examples/sample-schema.sql',
-  catalogos: 'catalogos.sql'
+//  newsample: 'sql-file-schema.sql'
 };
 
 // Output directory for generated files
